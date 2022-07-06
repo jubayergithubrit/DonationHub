@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 .firstsection-victims {
@@ -39,4 +40,41 @@ body {
 
 .sylhet-flood p {
     margin-bottom: 40px;
+}
+
+.Donate-today h1 {
+    color: black;
+    font-size: 250%;
+    text-align: center;
+}
+
+.first-amount {
+    text-align: center;
+}
+
+.Box-Amount {
+    width: 30px;
+    height: 40px;
+    border-radius: 7px;
+    padding: 35px 45px 35px 45px;
+    margin: 10px;
+    background-color: whitesmoke;
+
+}
+
+.input-amount {
+    text-align: left;
+    display: flex;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+#five-hundredtk {
+    background-color: antiquewhite;
+    border: 2px solid salmon;
+    color: red;
 }
