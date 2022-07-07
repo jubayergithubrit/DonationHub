@@ -78,3 +78,58 @@ body {
     border: 2px solid salmon;
     color: red;
 }
+
+#input-section {
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-color: lightgray;
+}
+
+.input-button {
+    text-align: center;
+}
+
+.donate-plan h1 {
+    text-align: center;
+    font-size: 250%;
+    margin-top: 10%;
+}
+
+.donate-plan p {
+    text-align: center;
+}
+
+.donate-items {
+    display: flex;
+    margin: 80px;
+
+}
+
+.food-box {
+    background-color: orange;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.shelter-box {
+    background-color: rgb(157, 200, 240);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.medicine-box {
+    background-color: rgb(98, 240, 240);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.medicine-box img {
+    height: 15%;
+}
