@@ -133,3 +133,39 @@ body {
 .medicine-box img {
     height: 15%;
 }
+
+.your-responsibility {
+    display: flex;
+}
+
+.donating-moment h1 {
+    font-size: 250%;
+
+}
+
+.contribute {
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+    padding: 12px;
+
+    border-radius: 7%;
+    background-image: linear-gradient(rgb(255, 81, 0), rgb(250, 114, 205));
+}
+
+.donating-moment {
+    width: 50%;
+}
+
+.description {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.donating-moment img {
+    width: 400px;
+    height: 400px;
+
+    border-radius: 10px;
+    padding-right: 10%;
+}
