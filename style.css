@@ -197,6 +197,36 @@ body {
 
 }
 
+.bkash-payment-system h1 {
+    text-align: left;
+    margin-top: 5%;
+    margin-left: 5%;
+    color: black;
+}
+
+.bkash-color {
+    color: rgb(218, 75, 99);
+}
+
+.bkash-payment-system p {
+    text-align: left;
+    margin-left: 5%;
+
+}
+
+.bkash-payment-system img {
+    width: 40%;
+    margin-left: 5%;
+}
+
+.balance-transfer p {
+    margin-left: 5%;
+}
+
+.p {
+    margin-right: 10%;
+}
+
 .updates {
     text-align: center;
     margin-top: 10%;
