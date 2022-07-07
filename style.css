@@ -196,3 +196,72 @@ body {
     padding-right: 20%;
 
 }
+
+.updates {
+    text-align: center;
+    margin-top: 10%;
+    font-size: 250%;
+    color: rgb(16, 81, 134);
+}
+
+.last-paragraph {
+    text-align: center;
+    margin: 5%;
+}
+
+.email-section {
+    text-align: center;
+
+}
+
+.form-box {
+    border-radius: 5px;
+    padding: 80px;
+    margin-top: 20px;
+    margin-right: 280px;
+    margin-bottom: 80px;
+    margin-left: 280px;
+    background: #f8cece;
+    box-shadow: 10px 10px 15px #c7c4c4, -10px -10px -15px #fff;
+    border: none;
+
+}
+
+.form-box input {
+    border: none;
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    margin: 0;
+    background-color: rgb(204, 202, 202);
+}
+
+.form-box button {
+    position: absolute;
+    background-color: tomato;
+    border: none;
+    outline: none;
+    padding: 10px;
+    margin: 0;
+}
+
+.end-part {
+    text-align: center;
+    background-color: rgb(12, 10, 15);
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.end-part h1 {
+    font-family: 'The Nautigal', cursive;
+    font-size: 50px;
+    color: rgb(25, 146, 150);
+}
+
+.end-part small {
+    color: lawngreen;
+    font-size: 13px;
+    padding-bottom: 5px;
+}
