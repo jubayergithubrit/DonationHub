@@ -110,6 +110,7 @@ body {
 }
 
 .food-box {
+    text-align: justify;
     background-color: orange;
     margin: 10px;
     padding: 10px;
@@ -117,6 +118,7 @@ body {
 }
 
 .shelter-box {
+    text-align: justifys;
     background-color: rgb(157, 200, 240);
     margin: 10px;
     padding: 10px;
@@ -124,6 +126,7 @@ body {
 }
 
 .medicine-box {
+    text-align: justify;
     background-color: rgb(98, 240, 240);
     margin: 10px;
     padding: 10px;
@@ -145,7 +148,7 @@ body {
 
 .contribute {
     text-decoration: none;
-    font-weight: 700;
+    font-weight: 500;
     color: white;
     padding: 12px;
 
@@ -158,6 +161,7 @@ body {
 }
 
 .description {
+    text-align: justify;
     padding-left: 5%;
     padding-right: 5%;
 }
@@ -168,4 +172,27 @@ body {
 
     border-radius: 10px;
     padding-right: 10%;
+}
+
+.duck {
+    display: flex;
+    width: 100%;
+}
+
+.duck img {
+    width: 65%;
+    height: 120%;
+    padding-left: 20%;
+    border-radius: 5px;
+
+}
+
+.description-one h1 {
+    font-size: 238%;
+}
+
+.description-one {
+    text-align: justify;
+    padding-right: 20%;
+
 }
